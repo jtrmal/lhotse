@@ -64,6 +64,7 @@ from .tal_csasr import *
 from .tedlium import *
 from .thchs_30 import *
 from .timit import *
+from .uniphore_dev import *
 from .uwb_atcc import *
 from .vctk import *
 from .voxceleb import *
